@@ -4,6 +4,9 @@
 #include "stdafx.h"
 #include <iostream>
 #include <string>
+#include "Paper.h"
+#include "Rock.h"
+#include "Scissors.h"
 using namespace std;
 
 
